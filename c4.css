@@ -1,0 +1,40 @@
+/*
+selector {
+    property : value;
+
+}
+*/
+body {
+    background-color: brown;
+    color: white;
+ font-size: 30px;
+ font - family: sans-serif;
+
+}
+
+span {
+    color: black;
+}
+.yellow {
+    color : yellow;
+}
+.black{
+color : black;
+}
+#paragraph {
+        font-style:italic;
+
+}
+.iminja  li{
+    border-bottom: 1px solid white;
+    list-style:none;
+    width:200px;
+}
+   
+.gradovi {
+    color:green;
+}
+
+.iminja li .yellow {
+    color : #3b9eba;
+}
